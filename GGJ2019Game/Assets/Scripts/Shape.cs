@@ -5,7 +5,6 @@ using UnityEngine;
 public class Shape : MonoBehaviour
 {
     public enum ShapeType {Ball, Cube};
-
     public ShapeType shapeType;
 
     // Start is called before the first frame update
