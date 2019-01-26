@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CompleteCameraController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Shape.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/haotian/Documents/Unity2D/GGJ_2019/GGJ2019Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
